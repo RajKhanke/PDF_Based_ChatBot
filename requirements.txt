@@ -1,0 +1,5 @@
+google.generativeai
+google
+PyPDF2
+streamlit
+genai
